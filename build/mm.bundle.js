@@ -558,7 +558,7 @@ angular.module('mm.addons.mod_wiki').factory('$mmaModWikiSync', ["$q", "$log", 
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "com.mlearn.diamond",
+    "app_id" : "com.diamondbank.mlearning",
     "appname": "Diamond mLearn",
     "desktopappname": "Diamond mlearn Desktop",
     "versioncode" : "2018",
