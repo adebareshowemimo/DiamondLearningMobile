@@ -559,7 +559,7 @@ angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
     "app_id" : "com.diamondbank.mlearning",
-    "appname": "Diamond mLearn",
+    "appname": "Diamond mLearning",
     "desktopappname": "Diamond mlearn Desktop",
     "versioncode" : "202301",
     "versionname" : "3.0.1",
