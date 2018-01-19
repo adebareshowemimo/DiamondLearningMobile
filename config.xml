@@ -4,14 +4,14 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.diamondbank.mlearning"
         versionCode = "202301"
-        version   = "3.0.2">
+        version   = "3.0.3">
     <name>Diamond mLearning</name>
 
     <description>
         Diamond Academy Mobile Learning
     </description>
 
-    <author href="13.69.123.121" email="ashowemimo@diamondbank.com">
+    <author href="https://competency.diamondbank.com" email="ashowemimo@diamondbank.com">
        Diamond Academy
     </author>
 
