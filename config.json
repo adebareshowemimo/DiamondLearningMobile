@@ -2,7 +2,7 @@
     "app_id" : "com.diamondbank.mlearning",
     "appname": "Diamond mLearning",
     "desktopappname": "Diamond Academy Desktop",
-    "versioncode" : "202301",
+    "versioncode" : "202303",
     "versionname" : "3.0.3",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
